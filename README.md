@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Himanshu 👋
 
-<!--
-**himanshudohar/himanshudohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student At Madhav Institute of Technology and Science, Gwalior
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Learning Machine Learning and Data Science
+- 💻 Practicing DSA in C++
+- 🐍 Working with Python, NumPy, Pandas and Scikit-learn
+- 🚀 Building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: C++, Python, SQL
+- Tools: Git, GitHub, VS Code, Jupyter Notebook
+- Interests: Data Science, Machine Learning, Problem Solving
+
+## Projects
+- Machine Learning Projects
+- Deepfake Voice Detection System
+- Data Analysis Projects
